@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">Rhythm Box</string>
+    <string name="login">Log in</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="login_with_google">Log in with Google</string>
+    <string name="login_with_facebook">Log in with Facebook</string>
+    <string name="login_to_your_account">Login to your account</string>
+    <string name="create_your_account">Create your account</string>
+    <string name="or">or</string>
+    <string name="forgot_password"><b><font color="#FF1C48C6">Forgot password?</font></b></string>
+    <string name="already_have_account">
+        Already have an account? <b><u><font color="#FF1C48C6">Log in</font></u></b>
+    </string>
+
+    <string name="don_have_account">
+        Don\'t have an account yet? <b><u><font color="#FF1C48C6">Sign Up</font></u></b>
+    </string>
+    <string name="name">Name</string>
+    <string name="sign_up">Create account</string>
+    <string name="continue_with_facebook">Continue with facebook</string>
+    <string name="continue_with_google">Continue with google</string>
 </resources>
